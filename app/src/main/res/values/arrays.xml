@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="allergies">
+        <item>Peanuts</item>
+        <item>Shellfish</item>
+        <item>Milk</item>
+        <item>Egg</item>
+        <item>Soy</item>
+        <item>Sesame</item>
+        <item>Mustard</item>
+
+
+    </string-array>
+
+    <string-array name="medications">
+        <item>Aspirin</item>
+        <item>Insulin</item>
+        <item>Antibiotics</item>
+        <item>Asthma</item>
+        <item>Migraine</item>
+        <item>Hypertension</item>
+
+    </string-array>
+</resources>

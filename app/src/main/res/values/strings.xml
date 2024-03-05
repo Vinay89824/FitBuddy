@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitBuddy</string>
+    <string name="allergies_dropdown_description">Select Allergy Dropdown</string>
+    <string name="medications_dropdown_description">Select Medication Dropdown</string>
+    <string name="gender_dropdown_description">Select gender Dropdown</string>
+
+</resources>
