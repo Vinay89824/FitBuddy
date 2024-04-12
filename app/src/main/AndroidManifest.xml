@@ -10,34 +10,43 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.FitBuddy"
+        android:theme="@style/Theme.GiatorsJava"
         tools:targetApi="31">
         <activity
-            android:name=".social_sharing"
+            android:name=".Dietplans"
             android:exported="false" />
         <activity
-            android:name=".exercise_suggestions"
+            android:name=".Test.Percentage"
             android:exported="false" />
         <activity
-            android:name=".diet_recommendations"
+            android:name=".Test.Analysis"
             android:exported="false" />
         <activity
-            android:name=".goal_setting"
+            android:name=".Test.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".fitness_dashboard"
+            android:name=".Profile"
             android:exported="false" />
         <activity
-            android:name=".personal_profile"
+            android:name=".WebViewLoad"
             android:exported="false" />
         <activity
-            android:name=".login"
+            android:name=".fitness"
             android:exported="false" />
         <activity
-            android:name=".user_registration"
+            android:name=".focus"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Splash"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -45,6 +54,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Calories" />
     </application>
 
 </manifest>
