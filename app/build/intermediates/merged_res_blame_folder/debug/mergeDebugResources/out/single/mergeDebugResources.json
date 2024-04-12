@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_web_view_load.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_web_view_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_fitness.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_fitness.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable-v24_illu5.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable-v24\\illu5.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_analysis.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_underweight.jpg.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\underweight.jpg"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_calories.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_calories.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_cardlayout.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\cardlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_analysise.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_analysise.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_focus.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\focus.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_extremeobesity.jpg.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\extremeobesity.jpg"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_baseline_navigate_next_24.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\baseline_navigate_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_questioncard.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\questioncard.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_depression.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\depression.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_image_all.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\image_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_overweight.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\overweight.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_dietplans.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_dietplans.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_person_3.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\person_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable-v24_illu3.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable-v24\\illu3.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable-v24_illu7.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable-v24\\illu7.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_memory.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\memory.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_percentage.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_percentage.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_fitness.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\fitness.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable-v24_illu9.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable-v24\\illu9.png"
+    },
+    {
+        "merged": "com.example.giatorsjava.app-debug-35:/drawable_overweight.jpg.flat",
+        "source": "com.example.giatorsjava.app-main-37:/drawable/overweight.jpg"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_obesity2.jpg.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\obesity2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_focus.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_focus.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_bmi.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\bmi.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_obesity1.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\obesity1.png"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_normal.jpg.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\normal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable-v24_button.xml.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable-v24\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-debug-35:\\drawable-v24_illu11.png.flat",
+        "source": "C:\\Users\\0579\\.gradle\\daemon\\8.4\\com.example.giatorsjava.app-main-37:\\drawable-v24\\illu11.png"
+    }
+]

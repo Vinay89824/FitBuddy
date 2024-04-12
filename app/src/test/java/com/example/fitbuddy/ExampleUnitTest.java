@@ -1,4 +1,4 @@
-package com.example.fitbuddy;
+package com.example.giatorsjava;
 
 import org.junit.Test;
 
