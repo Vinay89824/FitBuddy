@@ -1,6 +1,7 @@
 # Fit Buddy
-#TEAM MEMBERS
-##1.AMULYA BOGGAVARAPU-S567145
-##2.TEJASWINI BOBBA-S566406
-##3.BHAVYA TATAVARTHI-S564912
-##4.VINAY MARELLA-S565587
+
+## Team Members:
+1. Amulya Boggavarapu - S567145
+2. Tejaswini Bobba - S566406
+3. Bhavya Tatavarthi - S564912
+4. Vinay Marella - S565587
